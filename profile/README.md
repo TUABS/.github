@@ -2,7 +2,8 @@
 
 ## Merhaba 👋
 
-**TUABS** "TÜRKİYE Ulusal Afet Bilgi sistemi" açık kaynak bir deprem yardım sistemidir. Tuabs'ın amaçladığı bazı şeyler var bunlar:
+TUABS, Türkiye Ulusal Afet Bilgi Sistemi, Türkiye'de meydana gelen afetlerin bilgilerini toplayıp, 
+saklamak ve paylaşmak için geliştirilmiş bir sistemdir.
 
 
 
