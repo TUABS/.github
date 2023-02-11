@@ -14,6 +14,6 @@ saklamak ve paylaşmak için geliştirilmiş bir sistemdir.
 
 
 
-**[Buraya tıklayarak ](https://discord.gg/46xQx2rg4c)aramıza katılabilir ve gelişmeler hakkında bilgi alabilirsin.**
+**[Buraya tıklayarak ](https://discord.gg/9QMNWf5dg3)aramıza katılabilir ve gelişmeler hakkında bilgi alabilirsin.**
 
 
